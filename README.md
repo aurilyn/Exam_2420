@@ -30,6 +30,7 @@ sudo apt upgrade
  echo Users currently logged in are: >> motd
  echo $USER >> motd
  ```
+
 # Question 5
 ```
     [Unit]
@@ -40,6 +41,7 @@ sudo apt upgrade
     [Install]
     WantedBy=multi-user.target
 ```
+This file goes to /etc/systemd/system
 
 # Question 6
 ```
@@ -54,3 +56,4 @@ sudo apt upgrade
   WantedBy=timers.target
                        
 ```
+This file goes to /etc/systemd/system
