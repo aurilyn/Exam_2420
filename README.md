@@ -30,7 +30,7 @@ sudo apt upgrade
  echo Users currently logged in are: >> motd
  echo $USER >> motd
  ```
-
+File sits in /opt
 # Question 5
 ```
     [Unit]
