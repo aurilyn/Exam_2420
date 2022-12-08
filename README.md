@@ -11,6 +11,9 @@ sudo apt upgrade
 
 # Question 3
 ![question3](./images/question3.png)
+![question3](./images/journalctlboot.png)
+![question3](./images/journalctljson.png)
+![](./images/journalctlprio.png)
 # Question 4
 ```
   #!/bin/bash
