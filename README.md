@@ -43,6 +43,8 @@ sudo apt upgrade
 ```
 This file goes to /etc/systemd/system
 
+![](./images/question5status.png)
+
 # Question 6
 ```
   [Unit]
@@ -57,3 +59,5 @@ This file goes to /etc/systemd/system
                        
 ```
 This file goes to /etc/systemd/system
+
+![](./images/question6status.png)
